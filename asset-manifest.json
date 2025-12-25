@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lru-cache-visualizer/static/css/main.94667b43.css",
+    "main.js": "/lru-cache-visualizer/static/js/main.3add595c.js",
+    "index.html": "/lru-cache-visualizer/index.html",
+    "main.94667b43.css.map": "/lru-cache-visualizer/static/css/main.94667b43.css.map",
+    "main.3add595c.js.map": "/lru-cache-visualizer/static/js/main.3add595c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94667b43.css",
+    "static/js/main.3add595c.js"
+  ]
+}
